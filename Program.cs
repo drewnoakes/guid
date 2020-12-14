@@ -38,5 +38,5 @@ Console.Error.WriteLine($"    D    {guid.ToString("D").ToUpper()}");
 Console.Error.WriteLine($"    B    {guid.ToString("B").ToUpper()}");
 Console.Error.WriteLine($"    P    {guid.ToString("P").ToUpper()}");
 Console.Error.WriteLine();
-Console.Error.WriteLine("When unspecified, D formatting is used. Use lowercase [option] for lowercase output.");
+Console.Error.WriteLine("When unspecified, 'd' formatting is used. Use lowercase [option] for lowercase output.");
 return 1;

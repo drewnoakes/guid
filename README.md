@@ -21,4 +21,4 @@ Where `[option]` is an optional single character that controls formatting:
 - `B` &mdash; `{4FDAB48C-C00E-498C-B244-D523D5B8156D}`
 - `P` &mdash; `(4FDAB48C-C00E-498C-B244-D523D5B8156D)`
 
-When unspecified, `D` formatting is used. Use lowercase `[option]` for lowercase output.
+When unspecified, `d` formatting is used. Use lowercase `[option]` for lowercase output.
