@@ -1,5 +1,8 @@
 ﻿# guid
 
+[![Guid NuGet version](https://img.shields.io/nuget/v/Guid)](https://www.nuget.org/packages/Guid/)
+[![Guid Nuget download count](https://img.shields.io/nuget/dt/Guid)](https://www.nuget.org/packages/Guid/)
+
 Command line tool for generating GUID strings.
 
 ## Install
